@@ -1,2 +1,3 @@
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
-ADMIN_IDS = [123456789]  # Твой Telegram ID
+BOT_TOKEN = "8515977024:AAEmdj66SSD9NuM27bRcWkrHDSJfhOygftU"
+
+ADMIN_IDS = [7058964435]  # Твой Telegram ID
