@@ -9,7 +9,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from config import BOT_TOKEN, ADMIN_IDS
 import database as db
 
-bot = Bot(token=8515977024:AAEmdj66SSD9NuM27bRcWkrHDSJfhOygftU)
+bot = Bot(token="8515977024:AAEmdj66SSD9NuM27bRcWkrHDSJfhOygftU")
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 
@@ -407,3 +407,4 @@ async def main():
 if __name__ == "__main__":
 
     asyncio.run(main())
+
